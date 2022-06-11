@@ -2,8 +2,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 300px;
+    width: 100px;
     height: 100vh;
     background-color: aqua;
-    text-align: center;
 }
